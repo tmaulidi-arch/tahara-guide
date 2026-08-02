@@ -25,9 +25,4 @@ Deployed via Netlify (static hosting, continuous deploy from drag-and-drop / Git
 - Basic SEO fundamentals (meta tags, structured data, Search Console verification)
 - Attention to visual design and typography
 
-## Screenshot
-*(Add a screenshot of the site here — take one and drag it into this repo, then reference it like below)*
 
-```md
-![Site screenshot](screenshot.png)
-```

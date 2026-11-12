@@ -1,0 +1,15 @@
+{
+  "name": "Tahara Guide",
+  "short_name": "Tahara",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FDFBF7",
+  "theme_color": "#FDFBF7",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "2000x2000",
+      "type": "image/png"
+    }
+  ]
+}
